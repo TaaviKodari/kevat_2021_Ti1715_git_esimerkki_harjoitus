@@ -1,0 +1,3 @@
+Moi,
+
+tämä on git-harjoitus keväällä 2021.
